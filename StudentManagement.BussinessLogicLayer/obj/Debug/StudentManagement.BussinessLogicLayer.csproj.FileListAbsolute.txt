@@ -1,0 +1,11 @@
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.BussinessLogicLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.BussinessLogicLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.BussinessLogicLayer\bin\Debug\StudentManagement.DataAccessLayer.dll
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.BussinessLogicLayer\bin\Debug\StudentMangement.Entities.dll
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.BussinessLogicLayer\bin\Debug\StudentManagement.DataAccessLayer.pdb
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.BussinessLogicLayer\bin\Debug\StudentMangement.Entities.pdb
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.BussinessLogicLayer\obj\Debug\StudentManagement.BussinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.BussinessLogicLayer\obj\Debug\StudentManagement.BussinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.BussinessLogicLayer\obj\Debug\StudentManagement.BussinessLogicLayer.csproj.CopyComplete
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.BussinessLogicLayer\obj\Debug\BussinessLogicLayer.dll
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.BussinessLogicLayer\obj\Debug\BussinessLogicLayer.pdb

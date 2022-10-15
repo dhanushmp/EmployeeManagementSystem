@@ -1,0 +1,6 @@
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentMangement.Entities\bin\Debug\StudentMangement.Entities.dll
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentMangement.Entities\bin\Debug\StudentMangement.Entities.pdb
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentMangement.Entities\obj\Debug\StudentMangement.Entities.csproj.AssemblyReference.cache
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentMangement.Entities\obj\Debug\StudentMangement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentMangement.Entities\obj\Debug\StudentMangement.Entities.dll
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentMangement.Entities\obj\Debug\StudentMangement.Entities.pdb

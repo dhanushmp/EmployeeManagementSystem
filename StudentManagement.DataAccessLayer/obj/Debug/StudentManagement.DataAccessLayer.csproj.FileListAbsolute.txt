@@ -1,0 +1,9 @@
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.DataAccessLayer\bin\Debug\StudentManagement.DataAccessLayer.dll
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.DataAccessLayer\bin\Debug\StudentManagement.DataAccessLayer.pdb
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.DataAccessLayer\bin\Debug\StudentMangement.Entities.dll
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.DataAccessLayer\bin\Debug\StudentMangement.Entities.pdb
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.DataAccessLayer\obj\Debug\StudentManagement.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.DataAccessLayer\obj\Debug\StudentManagement.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.DataAccessLayer\obj\Debug\StudentManagement.DataAccessLayer.csproj.CopyComplete
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.DataAccessLayer\obj\Debug\StudentManagement.DataAccessLayer.dll
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.DataAccessLayer\obj\Debug\StudentManagement.DataAccessLayer.pdb

@@ -1,0 +1,14 @@
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.PresentationLayer\bin\Debug\StudentManagement.PresentationLayer.exe.config
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.PresentationLayer\bin\Debug\StudentManagement.PresentationLayer.exe
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.PresentationLayer\bin\Debug\StudentManagement.PresentationLayer.pdb
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.PresentationLayer\bin\Debug\BussinessLogicLayer.dll
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.PresentationLayer\bin\Debug\StudentMangement.Entities.dll
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.PresentationLayer\bin\Debug\StudentManagement.DataAccessLayer.dll
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.PresentationLayer\bin\Debug\BussinessLogicLayer.pdb
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.PresentationLayer\bin\Debug\StudentMangement.Entities.pdb
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.PresentationLayer\bin\Debug\StudentManagement.DataAccessLayer.pdb
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.PresentationLayer\obj\Debug\StudentManagement.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.PresentationLayer\obj\Debug\StudentManagement.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.PresentationLayer\obj\Debug\StudentManagement.PresentationLayer.csproj.CopyComplete
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.PresentationLayer\obj\Debug\StudentManagement.PresentationLayer.exe
+C:\Users\c1julymind114\source\repos\StudentManagement.PresentationLayer\StudentManagement.PresentationLayer\obj\Debug\StudentManagement.PresentationLayer.pdb
